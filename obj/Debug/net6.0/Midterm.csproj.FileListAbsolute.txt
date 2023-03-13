@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Downloads\Midterm\obj\Debug\net6.0\Midterm.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Midterm\obj\Debug\net6.0\Midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Midterm\obj\Debug\net6.0\Midterm.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Midterm\obj\Debug\net6.0\Midterm.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Midterm\obj\Debug\net6.0\Midterm.csproj.CoreCompileInputs.cache
